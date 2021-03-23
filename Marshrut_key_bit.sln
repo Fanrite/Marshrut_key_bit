@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marshrut_key_bit", "Marshrut_key_bit\Marshrut_key_bit.csproj", "{911AB5F9-2D20-4940-9AEA-9601E2DB76DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911AB5F9-2D20-4940-9AEA-9601E2DB76DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911AB5F9-2D20-4940-9AEA-9601E2DB76DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911AB5F9-2D20-4940-9AEA-9601E2DB76DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911AB5F9-2D20-4940-9AEA-9601E2DB76DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688813D2-24E6-4898-89CE-14D27640B47C}
+	EndGlobalSection
+EndGlobal
